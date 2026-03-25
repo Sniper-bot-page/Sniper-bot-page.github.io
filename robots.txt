@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sniper-bot/
+Sitemap: https://sniper-bot.github.io/sitemap.xml
